@@ -10,7 +10,7 @@ python == 3.6
 To extract speech features. filepath is the path where the database is located.    
 
 ## Module_attlstm and Module_cnn.py 
-CNN module and LSTM module
+CNN module and LSTM module  
 
-##model.py
+## model.py
 main program
