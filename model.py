@@ -95,7 +95,8 @@ def Model(x_train_cnn, x_train_rnn,
 
     return WA, UA
 
-
+if __name__=='__main__':
+    Model()
 
 
 
