@@ -6,4 +6,5 @@ tensorflow == 1.4
 python == 3.6
 
 # Description
-feat.py is used to extract features
+## feat.py
+To extract speech features
