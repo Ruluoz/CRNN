@@ -5,3 +5,5 @@ Convolutional-Recurrent Neural Networks with Multiple Attention Mechanisms for S
 tensorflow == 1.4  
 python == 3.6
 
+# Description
+feat.py is used to extract features
