@@ -1,2 +1,2 @@
 # CRNN-MA
- ![](https://github.com/Ruluoz/CRNN/blob/main/fig1.pdf)
+ ![](https://github.com/Ruluoz/CRNN/blob/main/A1.png?raw=true)
