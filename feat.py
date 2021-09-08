@@ -71,10 +71,6 @@ def feature():
     
     return  x_1, x_2, n,
         
-input_cnn, input_lstm, true_lenghs, data_base = feature()       
-        
-
-#emo abc width = 3
 
 
 
